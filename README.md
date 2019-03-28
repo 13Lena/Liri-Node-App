@@ -1,4 +1,5 @@
-iri-node-app
+Liri-node-app
+
 Creator: Lena Hamilton
 
 ABOUT THE APP
